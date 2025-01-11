@@ -23,8 +23,8 @@ app.config['SESSION_COOKIE_SECURE'] = True  # Use secure cookies
 app.config['SESSION_COOKIE_HTTPONLY'] = True  # Make cookies inaccessible to JavaScript
 app.config['SESSION_COOKIE_SAMESITE'] = 'Lax'  # Prevent CSRF in cross-site requests
 app.config['SESSION_PERMANENT'] = False  # Session expires when the browser is closed
-app.config['MAIL_USERNAME'] = 'ak1074834@gmail.com'
-app.config['MAIL_PASSWORD'] = '/ask.in/kumbhar'
+app.config['MAIL_USERNAME'] = ''
+app.config['MAIL_PASSWORD'] = ''
 
 
 UPLOAD_FOLDER = 'static/uploads/'  # Folder to store uploaded photos
