@@ -1,0 +1,7 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+itsdangerous
+bcrypt
+qrcode
+flask-mail
