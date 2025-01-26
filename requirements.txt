@@ -6,4 +6,4 @@ bcrypt
 qrcode
 flask-mail
 Flask-Bcrypt
-
+pymysql
