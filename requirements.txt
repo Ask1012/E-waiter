@@ -5,3 +5,5 @@ itsdangerous
 bcrypt
 qrcode
 flask-mail
+Flask-Bcrypt
+
