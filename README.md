@@ -28,10 +28,10 @@ E-Waiter enables hotel owners to manage their business operations more efficient
 
 ## 📸 Screenshots
 
-### 👤 Owner Dashboard
+### 👤 Home 
 <img width="494" alt="Owner Dashboard" src="https://github.com/user-attachments/assets/e241e023-2ebb-4497-b738-9a376bfe7a6f" />
 
-### 📋 Menu Management
+### 📋 Admin Dashboard
 <img width="497" alt="Menu Management" src="https://github.com/user-attachments/assets/5061ef2f-f9b5-44bd-914d-2726f5ebddfa" />
 
 ### 👨‍🍳 Waiter Order Screen
@@ -40,7 +40,7 @@ E-Waiter enables hotel owners to manage their business operations more efficient
 ### 🧾 Bill View
 <img width="344" alt="Bill View" src="https://github.com/user-attachments/assets/70916749-399a-4bc3-8458-03cd8f0341cf" />
 
-### 🧑‍💼 Waiter Dashboard
+### 🧑‍💼 Menu Management
 <img width="431" alt="Waiter Login" src="https://github.com/user-attachments/assets/8ad44260-48c2-4193-8b0a-cf8b609457a6" />
 
 ### 🔧 Admin Tools
@@ -57,14 +57,4 @@ E-Waiter enables hotel owners to manage their business operations more efficient
 
 ---
 
-## 📂 Project Structure
 
-```plaintext
-E-waiter/
-├── static/
-├── templates/
-├── admin/
-├── waiter/
-├── owner/
-├── config.py
-└── app.py
