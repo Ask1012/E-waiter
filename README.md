@@ -40,7 +40,7 @@ E-Waiter enables hotel owners to manage their business operations more efficient
 ### 🧾 Bill View
 <img width="344" alt="Bill View" src="https://github.com/user-attachments/assets/70916749-399a-4bc3-8458-03cd8f0341cf" />
 
-### 🧑‍💼 Waiter Login
+### 🧑‍💼 Waiter Dashboard
 <img width="431" alt="Waiter Login" src="https://github.com/user-attachments/assets/8ad44260-48c2-4193-8b0a-cf8b609457a6" />
 
 ### 🔧 Admin Tools
@@ -52,7 +52,7 @@ E-Waiter enables hotel owners to manage their business operations more efficient
 
 - **Frontend**: HTML, CSS, Bootstrap  
 - **Backend**: Python (Flask)  
-- **Database**: SQLite  
+- **Database**: Mysql  
 - **Hosting**: Localhost (or deploy on Heroku/Render)
 
 ---
